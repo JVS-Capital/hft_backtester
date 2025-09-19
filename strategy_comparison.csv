@@ -1,0 +1,4 @@
+Strategy,Total Return (%),Sharpe Ratio,Max Drawdown (%),Calmar Ratio,Sortino Ratio,Win Rate (%),Total Trades
+Enhanced Momentum,0.00,0.000,0.00,0.000,0.000,0.0,0
+RSI Strategy,-8.10,-16.035,-8.77,-8.145,-21.391,1.0,17
+Bollinger Bands,5.37,36.406,0.00,0.000,0.000,1.0,8
